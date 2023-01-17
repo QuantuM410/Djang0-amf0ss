@@ -3,7 +3,11 @@ kartikey
 kart1234
 
 #pyth0nanywhere :
-quantum
+quantum410
 karti1234
 #http://quantum410.pythonanywhere.com/admin/
 #http://127.0.0.1:8000/
+
+https://docs.djangoproject.com/en/3.2/ref/models/querysets/
+https://docs.djangoproject.com/en/3.2/ref/models/fields/#field-types
+https://docs.djangoproject.com/en/3.2/ref/contrib/admin/
